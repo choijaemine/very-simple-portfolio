@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 새로운 framework 와 기술을 배우고 적용하는 것을 좋아합니다.
+- 작성된 코드르 가독성 있게 refactor 하는 것을 좋아합니다.
+- 코드리뷰를 통해 코드 피드백 받는 것을 좋아합니다.

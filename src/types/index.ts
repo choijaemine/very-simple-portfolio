@@ -10,6 +10,7 @@ export interface WorkExperienceProps {
   name: string;
   description?: string;
   position: string;
+  link? : string;
   period: string[];
   markdown?: string;
   imgSrc?: string;
